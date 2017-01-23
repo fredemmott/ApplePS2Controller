@@ -1,3 +1,8 @@
+Unsupported
+===========
+
+I no longer have the relevant hardware to work on this.
+
 What is this?
 =============
 
